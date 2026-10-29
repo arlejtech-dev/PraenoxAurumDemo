@@ -73,12 +73,11 @@ not diagnose, treat, or replace professional medical care.
 
 ## Ready to buy?
 
-Purchase information and licence help: [praenox.pages.dev](https://praenox.pages.dev)
+Web Praenox: https://praenox.com
+---
+Web Arlej Tech: https://arlejtech.com
+---
 
 ## Developer
 
 Created by **Arlej Tech**.
-
-- Website: [arlejtech.pages.dev](https://arlejtech.pages.dev)
-- Praenox: [praenox.pages.dev](https://praenox.pages.dev)
-- Email: [arlej.tech@gmail.com](mailto:arlej.tech@gmail.com)
